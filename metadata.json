@@ -1,0 +1,6 @@
+{
+  "name": "Woodland AI Poster Studio",
+  "description": "Professional school poster generator featuring automatic logo placement, instant AI grammar correction, custom event highlights, and studio-grade academic designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
